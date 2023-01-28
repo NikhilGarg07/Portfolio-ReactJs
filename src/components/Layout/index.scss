@@ -108,3 +108,21 @@
         }
     }
 }
+
+
+@media screen and (max-width: 1200px) {
+    .contact-page, .about-page{
+        display: flex;
+        flex-direction: column-reverse;
+    }
+
+    .about-page, .contact-page{
+        .text-zone{
+        position: initial;
+        width: 100%;
+        transform: none;
+        padding: 10px 10%;
+        box-sizing: border-box;
+        }
+      }
+}
