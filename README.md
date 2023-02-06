@@ -21,3 +21,6 @@ For various solid and brand icons we are using fontawesome libraries. These icon
 
 ### Email
 Emailjs API helps with sending email so that users can contact using the contact form without any confusion.
+
+### Output
+Check [this](https://frolicking-gelato-d406b9.netlify.app/) for final output
